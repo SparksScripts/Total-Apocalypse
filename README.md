@@ -1,17 +1,17 @@
 # Total-Apocalypse
 
-This is a revitalization of a seemingly dead project > The Apocalypse Project , since that project doesn't seem to be being worked on anymore our team has picked it back up so that it can get fixed up and working well again. We have already made a lot of changes and fixes.
+This is a revitalization of a seemingly dead project [**The Apocalypse Project**](https://forum.cfx.re/t/the-apocalypse-project-final-version-updated-20-12-2021/1178682), since that project seems dead and not worked on anymore our team has picked it back up so that it can get fixed up and working again. We have already made a lot of changes and fixes.
 
- - Reconfigured some maps to feel more in place with the others on the map
+ - Reconfigured some maps to feel more in place with the others and enviorments around them.
  - Removed any conflicting spawns and maps.
- - Fixed holes in the map and missing road.
- - added a few more locations and minor improvements to some that are already in place.
+ - Fixed holes in the maps and missing roads.
+ - Added a few more locations and minor improvements to some that are already in place.
 
 
-We will be continuing to improve this resource & fix any problems found with it. We will also be creating a ton of new resources that can be added to you end of the world type server. Keep up with the development of this project and get support via our discord [Total Scripts Discord](https://discord.gg/Tb2hRb6F)
+We will be continuing to improve this resource & fix any problems found with it. We will also be creating a ton of new resources that can be added to your end of the world type server. Keep up with the development of this project and get support via our discord [Total Scripts Discord](https://discord.gg/Tb2hRb6F)
 
 
-As with all resources packed from free resources available to everyone below if a list of credits to everyone who has a map in this pack or contributed in some way on the previous project.
+As with all resources packed from free resources available to everyone below is a list of credits to everyone who has a map in this pack or contributed in some way on the previous project.
 
 -XanderP#6037
 -Savolent
