@@ -1,6 +1,6 @@
 # Total-Apocalypse
 
-This is a revitalization of a seemingly dead project <The Apocalypse Project , since that project doesn't seem to be being worked on anymore our team has picked it back up so that it can get fixed up and working well again. We have already made a lot of changes and fixes.
+This is a revitalization of a seemingly dead project > The Apocalypse Project , since that project doesn't seem to be being worked on anymore our team has picked it back up so that it can get fixed up and working well again. We have already made a lot of changes and fixes.
 
  - Reconfigured some maps to feel more in place with the others on the map
  - Removed any conflicting spawns and maps.
