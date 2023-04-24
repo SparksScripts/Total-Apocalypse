@@ -20,7 +20,7 @@ ensure pack2
 
 ensure pack3
 
-ensure postopint
+ensure postapo-interior
 
 
 Make sure to restart after
