@@ -27,7 +27,7 @@ Make sure to restart after
 
 **----------------**
 
-We will be continuing to improve this resource & fix any problems found with it. We will also be creating a ton of new resources that can be added to your end of the world type server. Keep up with the development of this project and get support via our discord [Total Scripts Discord](https://discord.gg/Tb2hRb6F)
+We will be continuing to improve this resource & fix any problems found with it. We will also be creating a ton of new resources that can be added to your end of the world type server. Keep up with the development of this project and get support via our discord [Total Scripts Discord](https://discord.gg/d66zbP6c)
 
 
 As with all resources packed from free resources available to everyone below is a list of credits to everyone who has a map in this pack or contributed in some way on the previous project.
