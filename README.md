@@ -42,6 +42,6 @@ As with all resources packed from free resources available to everyone below is 
 -MrAvenue
 -Fr0zzty23
 -Guristas
--Michal10d#1572
+-MAJXEL
 
 If there is anyone else who thinks they deserve some credit here please let me know.
