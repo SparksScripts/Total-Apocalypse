@@ -15,11 +15,8 @@ Drop all the packs into your resources and ensure each pack i.e.
 
 
 ensure pack1
-
 ensure pack2
-
 ensure pack3
-
 ensure postapo-interior
 
 
@@ -27,7 +24,7 @@ Make sure to restart after
 
 **----------------**
 
-We will be continuing to improve this resource & fix any problems found with it. We will also be creating a ton of new resources that can be added to your end of the world type server. Keep up with the development of this project and get support via our discord [Sparks™](https://discord.gg/7afbSExCvt)
+We will be continuing to improve this resource & fix any problems found with it. We will also be creating a ton of new resources that can be added to your end of the world type server. Keep up with the development of this project via our discord [Upgrade Scripts](https://discord.gg/ehgef33Xyg)
 
 
 As with all resources packed from free resources available to everyone below is a list of credits to everyone who has a map in this pack or contributed in some way on the previous project.
@@ -43,5 +40,6 @@ As with all resources packed from free resources available to everyone below is 
 -Fr0zzty23
 -Guristas
 -MAJXEL
+-Sparks
 
 If there is anyone else who thinks they deserve some credit here please let me know.
